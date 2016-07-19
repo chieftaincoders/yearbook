@@ -1,0 +1,10 @@
+#background{
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#container{
+    box-sizing: content-box;
+    border-color: black;
+
+}
