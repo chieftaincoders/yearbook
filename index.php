@@ -20,8 +20,34 @@
                 <img src="..." alt="...">
             </a>
         </div>
-
     </div>
+</div>
+
+<div class="row">
+    <div class="col-md-3">
+        <div class="media">
+            <div class="media-left media-middle">
+                <a href="#">
+                    <img class="media-object" src="..." alt="...">
+                </a>
+            </div>
+            <div class="media-body">
+                <h4 class="page-header">Principal</h4>
+                    <p></p>
+            </div>
+        </div>
+        <div class="media">
+            <div class="media-left media-middle">
+                <a href="#">
+                    <img class="media-object" src="..." alt="...">
+                </a>
+            </div>
+            <div class="media-body">
+                <h4 class="page-header">"Once A Chieftain Always A Chieftain</h4>
+                ...
+            </div>
+        </div>
+</div>
 
 </body>
 
