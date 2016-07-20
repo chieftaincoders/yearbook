@@ -46,11 +46,6 @@ i {
     float: left;
 }
 
-h1{
-    padding: auto;
-    text-align: center;
-}
-
 .col-md-9{
     width: 90%;
     margin-left: 30px;
@@ -67,4 +62,16 @@ h1{
 
 .col-md-3{
     width: 35%;
+}
+@font-face{
+    font-family: 'My_Fontpring';
+    src: url('/moiWebsite/lib/css/NexaRustSlab-BlackShadow01-Free-webfont.eot');
+    src: url('/moiWebsite/lib/css/NexaRustSlab-BlackShadow01-Free-webfont.woff') format('woff');
+    src: url('/moiWebsite/lib/css/NexaRustSlab-BlackShadow01-Free-webfont.ttf') format('truetype');
+
+}
+h1 {
+    font-family: 'My_Fontpring', Arial, sans-serif;
+    padding: auto;
+    text-align: center;
 }
