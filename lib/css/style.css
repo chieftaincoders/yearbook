@@ -40,3 +40,19 @@ i {
 .fa-calendar-check-o:before{
     font-size: xx-large;
 }
+
+.jumbotron{
+    width: 60%;
+}
+
+h1{
+    padding: auto;
+    text-align: center;
+}
+
+.col-md-9{
+    width: 90%;
+    margin-left: 30px;
+    text-align: center;
+    padding-top: 25px;
+}
