@@ -8,7 +8,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="#">Brand</a>
+            <a class="navbar-brand" href="#">Home</a>
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
@@ -22,8 +22,6 @@
                             <li><a href="#">Emails</a></li>
                             <li><a href="#">Facebook link</a></li>
                             <li><a href="#">Send Pictures & Videos </a></li>
-                            <li role="separator" class="divider"></li>
-                            <li><a href="#">Separated link</a></li>
                         </ul>
                     </li>
                 </ul>
@@ -35,8 +33,6 @@
                             <li><a href="#">Grads</a></li>
                             <li><a href="#">Regulars</a></li>
                             <li><a href="#">Baby Pics</a></li>
-                            <li role="separator" class="divider"></li>
-                            <li><a href="#">Separated link</a></li>
                         </ul>
                     </li>
                 </ul>
@@ -46,8 +42,6 @@
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Staff<span class="caret"></span></a>
                         <ul class="dropdown-menu">
                             <li><a href="#">Teachers</a></li>
-                            <li role="separator" class="divider"></li>
-                            <li><a href="#">Separated link</a></li>
                         </ul>
                     </li>
                 </ul>
@@ -63,8 +57,6 @@
                             <li><a href="#">Girls Basketball</a></li>
                             <li><a href="#">GearUp</a></li>
                             <li><a href="#">Graduation</a></li>
-                            <li role="separator" class="divider"></li>
-                            <li><a href="#">Separated link</a></li>
                         </ul>
                     </li>
                 </ul>
@@ -78,8 +70,6 @@
                             <li><a href="#">FFA</a></li>
                             <li><a href="#">Dine Club</a></li>
                             <li><a href="#">NHS</a></li>
-                            <li role="separator" class="divider"></li>
-                            <li><a href="#">Separated link</a></li>
                         </ul>
                     </li>
                 </ul>
@@ -99,8 +89,6 @@
                             <li><a href="#">Track</a></li>
                             <li><a href="#">VolleyBall</a></li>
                             <li><a href="#">Wrestling</a></li>
-                            <li role="separator" class="divider"></li>
-                            <li><a href="#">Separated link</a></li>
                         </ul>
                     </li>
                 </ul>
@@ -118,8 +106,6 @@
                             <li><a href="#">Social Studies</a></li>
                             <li><a href="#">Electives</a></li>
                             <li><a href="#">Exceptional Programs</a></li>
-                            <li role="separator" class="divider"></li>
-                            <li><a href="#">Separated link</a></li>
                         </ul>
                     </li>
                 </ul>
