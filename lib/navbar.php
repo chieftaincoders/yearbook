@@ -17,7 +17,7 @@
                 <ul class="nav navbar-nav navbar-right">
                     <li><a href="#"> </a></li>
                     <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Contacts<span class="caret"></span></a>
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fa fa-phone-square" aria-hidden="true"></i>Contacts<span class="caret"></span></a>
                         <ul class="dropdown-menu">
                             <li><a href="#">Emails</a></li>
                             <li><a href="#">Facebook link</a></li>
