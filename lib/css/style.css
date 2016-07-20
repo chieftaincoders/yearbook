@@ -11,5 +11,32 @@
 
 i {
     margin-right: 9px;
-    font-size: 2.5em;
+}
+
+.fa-phone-square:before {
+    font-size: xx-large;
+}
+
+.fa-graduation-cap:before{
+    font-size: xx-large;
+}
+
+.fa-university:before{
+    font-size: xx-large;
+}
+
+.fa-user:before{
+    font-size: xx-large;
+}
+
+.fa-futbol-o:before{
+    font-size: xx-large;
+}
+
+.fa-users:before{
+    font-size: xx-large;
+}
+
+.fa-calendar-check-o:before{
+    font-size: xx-large;
 }

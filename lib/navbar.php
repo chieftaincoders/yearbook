@@ -28,7 +28,7 @@
                 <ul class="nav navbar-nav navbar-right">
                     <li><a href="#"> </a></li>
                     <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Year/Class<span class="caret"></span></a>
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fa fa-graduation-cap" aria-hidden="true"></i>Year/Class<span class="caret"></span></a>
                         <ul class="dropdown-menu">
                             <li><a href="#">Grads</a></li>
                             <li><a href="#">Regulars</a></li>
@@ -39,7 +39,7 @@
                 <ul class="nav navbar-nav navbar-right">
                     <li><a href="#"> </a></li>
                     <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Staff<span class="caret"></span></a>
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fa fa-user" aria-hidden="true"></i>Staff<span class="caret"></span></a>
                         <ul class="dropdown-menu">
                             <li><a href="#">Teachers</a></li>
                         </ul>
@@ -48,7 +48,7 @@
                 <ul class="nav navbar-nav navbar-right">
                     <li><a href="#"> </a></li>
                     <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Events<span class="caret"></span></a>
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fa fa-calendar-check-o" aria-hidden="true"></i>Events<span class="caret"></span></a>
                         <ul class="dropdown-menu">
                             <li><a href="#">Dances/Homecoming/Prom</a></li>
                             <li><a href="#">College Trips</a></li>
@@ -63,7 +63,7 @@
                 <ul class="nav navbar-nav navbar-right">
                     <li><a href="#"> </a></li>
                     <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Clubs<span class="caret"></span></a>
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fa fa-users" aria-hidden="true"></i>Clubs<span class="caret"></span></a>
                         <ul class="dropdown-menu">
                             <li><a href="#">Student Council</a></li>
                             <li><a href="#">Chess Club</a></li>
@@ -76,7 +76,7 @@
                 <ul class="nav navbar-nav navbar-right">
                     <li><a href="#"> </a></li>
                     <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Sports<span class="caret"></span></a>
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fa fa-futbol-o" aria-hidden="true"></i>Sports<span class="caret"></span></a>
                         <ul class="dropdown-menu">
                             <li><a href="#">Baseball</a></li>
                             <li><a href="#">Boys Basketball</a></li>
@@ -95,7 +95,7 @@
                 <ul class="nav navbar-nav navbar-right">
                     <li><a href="#"> </a></li>
                     <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Departments<span class="caret"></span></a>
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fa fa-university" aria-hidden="true"></i>Departments<span class="caret"></span></a>
                         <ul class="dropdown-menu">
                             <li><a href="#">Art</a></li>
                             <li><a href="#">Band</a></li>

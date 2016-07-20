@@ -24,4 +24,4 @@
       integrity="sha384-T8Gy5hrqNKT+hzMclPo118YTQO6cYprQmhrYwIiQ/3axmI1hQomh7Ud2hPOy8SP1"
       crossorigin="anonymous">
 
-<link rel="stylesheet" type="text/css" href="/Yearbook/lib/css/style.css"/>
+<link rel="stylesheet" type="text/css" href="/yearbook/lib/css/style.css"/>
