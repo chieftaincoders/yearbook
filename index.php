@@ -36,17 +36,26 @@
                     <p></p>
             </div>
         </div>
+    </div>
+
+    <div class="col-md-3 blue">
         <div class="media">
             <div class="media-left media-middle">
                 <a href="#">
-                    <img class="media-object" src="..." alt="...">
+                    <img class="media-object purple" src="/yearbook/lib/images/chieftains.png" alt="thisIsWhereAnImageGoes">
                 </a>
             </div>
-            <div class="media-body">
-                <h4 class="page-header">"Once A Chieftain Always A Chieftain</h4>
-                ...
+            <div class="media-body purple">
+                <h3>"Once A Chieftain Always A Chieftain"</h3>
+
             </div>
         </div>
+    </div>
+</div>
+
+<div class="container col-md-2">
+    <h2>Information For Yearbooks</h2>
+    <p class="two">nsoiv uhns jhv dvndskjv dsvnfkv jv skjvs djkv dsvjsdvkdsn</p>
 </div>
 
 </body>
