@@ -97,15 +97,15 @@
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fa fa-university" aria-hidden="true"></i>Departments<span class="caret"></span></a>
                         <ul class="dropdown-menu">
-                            <li><a href="#">Art</a></li>
-                            <li><a href="#">Band</a></li>
-                            <li><a href="#">English</a></li>
-                            <li><a href="#">ROTC</a></li>
-                            <li><a href="#">Math</a></li>
+                            <li><a href="#">Administration</a></li>
+                            <li><a href="#">Language Arts</a></li>
+                            <li><a href="#">Mathematics</a></li>
                             <li><a href="#">Science</a></li>
                             <li><a href="#">Social Studies</a></li>
                             <li><a href="#">Electives</a></li>
-                            <li><a href="#">Exceptional Programs</a></li>
+                            <li><a href="#">Special Education</a></li>
+                            <li><a href="#">Guidance</a></li>
+                            <li><a href="#">Support Staff</a></li>
                         </ul>
                     </li>
                 </ul>
