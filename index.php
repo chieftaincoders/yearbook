@@ -14,6 +14,7 @@
 
 <div class="jumbotron">
     <h1>Student Life</h1>
+    <h2>Damn</h2>
     <div class="row">
         <div class="col-md-9">
             <a href="#" class="thumbnail">

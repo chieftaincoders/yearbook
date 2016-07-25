@@ -24,14 +24,15 @@
                             <li><a href="#">Send Pictures & Videos</a></li>
                         </ul>
                     </li>
-                </ul>                <ul class="nav navbar-nav navbar-right">
+                </ul>
+                <ul class="nav navbar-nav navbar-right">
                     <li><a href="#"> </a></li>
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fa fa-graduation-cap" aria-hidden="true"></i>Year/Class<span class="caret"></span></a>
                         <ul class="dropdown-menu">
-                            <li><a href="#">Grads</a></li>
-                            <li><a href="#">Regulars</a></li>
-                            <li><a href="#">Baby Pics</a></li>
+                            <li><a href="2015.php">2015</a></li>
+                            <li><a href="2014.php">2014</a></li>
+                            <li><a href="2013.php">2013</a></li>
                         </ul>
                     </li>
                 </ul>
