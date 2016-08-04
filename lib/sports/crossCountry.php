@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-
+    <?php require_once("../../lib/head-utils3.php");?>
 </head>
 <body>
 <?php require_once("../../lib/navbar.php");?>
 
 <div class="page-header wow">
-    <h2 class="textCenter">Baseball</h2>
+    <h2 class="textCenter">Cross Country</h2>
 </div>
 
 <div class="page-header wow">
