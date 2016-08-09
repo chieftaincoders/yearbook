@@ -8,7 +8,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="#">Home</a>
+            <a class="navbar-brand" href="/yearbook/index.php">Home</a>
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
@@ -17,11 +17,11 @@
                 <ul class="nav navbar-nav navbar-right">
                     <li><a href="#"> </a></li>
                     <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fa fa-phone-square" aria-hidden="true"></i>Contacts<span class="caret"></span></a>
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fa fa-phone-square" aria-hidden="true"></i>Contact Us<span class="caret"></span></a>
                         <ul class="dropdown-menu">
-                            <li><a href="#">Emails</a></li>
-                            <li><a href="#">Facebook link</a></li>
-                            <li><a href="#">Send Pictures & Videos</a></li>
+                            <li><a href="/yearbooks/lib/contactUs/email.php">Emails</a></li>
+                            <li><a href="/yearbook/lib/contactUs/facebookLink.php">Facebook link</a></li>
+                            <li><a href="/yearbook/lib/contactUs/sendPicturesAndVideos.php">Send Pictures & Videos</a></li>
                         </ul>
                     </li>
                 </ul>
@@ -41,7 +41,7 @@
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fa fa-user" aria-hidden="true"></i>Staff<span class="caret"></span></a>
                         <ul class="dropdown-menu">
-                            <li><a href="#">Teachers</a></li>
+                            <li><a href="/yearbook/lib/staff/teachers.php">Teachers</a></li>
                         </ul>
                     </li>
                 </ul>
@@ -50,13 +50,13 @@
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fa fa-calendar-check-o" aria-hidden="true"></i>Events<span class="caret"></span></a>
                         <ul class="dropdown-menu">
-                            <li><a href="#">Dances/Homecoming/Prom</a></li>
-                            <li><a href="#">College Trips</a></li>
-                            <li><a href="#">Band Trip</a></li>
-                            <li><a href="#">ROTC Trips</a></li>
-                            <li><a href="#">Girls Basketball</a></li>
-                            <li><a href="#">GearUp</a></li>
-                            <li><a href="#">Graduation</a></li>
+                            <li><a href="/yearbooks/lib/events/dances.php">Dances</a></li>
+                            <li><a href="/yearbooks/lib/events/collegeTrips.php">College Trips</a></li>
+                            <li><a href="/yearbooks/lib/events/bandTrips.php">Band Trips</a></li>
+                            <li><a href="/yearbooks/lib/events/rotcTrips.php">ROTC Trips</a></li>
+                            <li><a href="/yearbooks/lib/events/sportsGames.php">Sports Games</a></li>
+                            <li><a href="/yearbooks/lib/events/gearUp.php">GearUp</a></li>
+                            <li><a href="/yearbooks/lib/events/graduation.php">Graduation</a></li>
                         </ul>
                     </li>
                 </ul>
@@ -65,11 +65,11 @@
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fa fa-users" aria-hidden="true"></i>Clubs<span class="caret"></span></a>
                         <ul class="dropdown-menu">
-                            <li><a href="#">Student Council</a></li>
-                            <li><a href="#">Chess Club</a></li>
-                            <li><a href="#">FFA</a></li>
-                            <li><a href="#">Dine Club</a></li>
-                            <li><a href="#">NHS</a></li>
+                            <li><a href="/yearbok/lib/clubs/studentCouncil.php">Student Council</a></li>
+                            <li><a href="/yearbook/lib/clubs/chessClub.php">Chess Club</a></li>
+                            <li><a href="/yearbook/lib/clubs/ffa.php">FFA</a></li>
+                            <li><a href="/yearbook/lib/clubs/dineClub.php">Dine Club</a></li>
+                            <li><a href="/yearbook/lib/clubs/nhs.php">NHS</a></li>
                         </ul>
                     </li>
                 </ul>
@@ -78,17 +78,17 @@
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fa fa-futbol-o" aria-hidden="true"></i>Sports<span class="caret"></span></a>
                         <ul class="dropdown-menu">
-                            <li><a href="#">Baseball</a></li>
-                            <li><a href="#">Boys Basketball</a></li>
-                            <li><a href="#">Girls Basketball</a></li>
-                            <li><a href="#">Cheer leading</a></li>
-                            <li><a href="#">Cross Country</a></li>
-                            <li><a href="#">FootBall</a></li>
-                            <li><a href="#">Golf</a></li>
-                            <li><a href="#">SoftBall</a></li>
-                            <li><a href="#">Track</a></li>
-                            <li><a href="#">VolleyBall</a></li>
-                            <li><a href="#">Wrestling</a></li>
+                            <li><a href="/yearbook/lib/sports/baseball.php">Baseball</a></li>
+                            <li><a href="/yearbook/lib/sports/boysBasketball.php">Boys Basketball</a></li>
+                            <li><a href="/yearbook/lib/sports/girlsBasketball.php">Girls Basketball</a></li>
+                            <li><a href="/yearbook/lib/sports/cheerleading.php">Cheerleading</a></li>
+                            <li><a href="/yearbook/lib/sports/crossCountry.php">Cross Country</a></li>
+                            <li><a href="/yearbook/lib/sports/football.php">FootBall</a></li>
+                            <li><a href="/yearbook/lib/sports/golf.php">Golf</a></li>
+                            <li><a href="/yearbook/lib/sports/softball.php">SoftBall</a></li>
+                            <li><a href="/yearbook/lib/sports/track.php">Track</a></li>
+                            <li><a href="/yearbook/lib/sports/volleyball.php">VolleyBall</a></li>
+                            <li><a href="/yearbook/lib/sports/wrestling.php">Wrestling</a></li>
                         </ul>
                     </li>
                 </ul>
@@ -97,15 +97,15 @@
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fa fa-university" aria-hidden="true"></i>Departments<span class="caret"></span></a>
                         <ul class="dropdown-menu">
-                            <li><a href="administration.php">Administration</a></li>
-                            <li><a href="english.php">English</a></li>
-                            <li><a href="#">Mathematics</a></li>
-                            <li><a href="#">Science</a></li>
-                            <li><a href="#">Social Studies</a></li>
-                            <li><a href="#">Electives</a></li>
-                            <li><a href="#">Special Education</a></li>
-                            <li><a href="#">Guidance</a></li>
-                            <li><a href="#">Support Staff</a></li>
+                            <li><a href="/yearbook/lib/departments/administration.php">Administration</a></li>
+                            <li><a href="/yearbook/lib/departments/english.php">English</a></li>
+                            <li><a href="/yearbook/lib/departments/math.php">Mathematics</a></li>
+                            <li><a href="/yearbook/lib/departments/science.php">Science</a></li>
+                            <li><a href="/yearbook/lib/departments/socialStudies.php">Social Studies</a></li>
+                            <li><a href="/yearbook/lib/departments/elective.php">Electives</a></li>
+                            <li><a href="/yearbook/lib/departments/specialElectives.php">Special Education</a></li>
+                            <li><a href="/yearbook/lib/departments/guidance.php">Guidance</a></li>
+                            <li><a href="/yearbook/lib/departments/supportStaff.php">Support Staff</a></li>
                         </ul>
                     </li>
                 </ul>
