@@ -92,42 +92,42 @@ margin-left: 56px;top:3px;">
             <li class="darkerlishadow">
                 <a href="http://startific.com">
                     <i class="fa fa-clock-o fa-lg"></i>
-                    <span class="nav-text">News</span>
+                    <span class="nav-text">Departments</span>
                 </a>
             </li>
 
             <li class="darkerli">
                 <a href="http://startific.com">
                     <i class="fa fa-desktop fa-lg"></i>
-                    <span class="nav-text">Technology</span>
+                    <span class="nav-text">Sports</span>
                 </a>
             </li>
 
             <li class="darkerli">
                 <a href="http://startific.com">
                     <i class="fa fa-plane fa-lg"></i>
-                    <span class="nav-text">Travel</span>
+                    <span class="nav-text">Clubs</span>
                 </a>
             </li>
 
             <li class="darkerli">
                 <a href="http://startific.com">
                     <i class="fa fa-shopping-cart"></i>
-                    <span class="nav-text">Shopping</span>
+                    <span class="nav-text">Events</span>
                 </a>
             </li>
 
             <li class="darkerli">
                 <a href="http://startific.com">
                     <i class="fa fa-microphone fa-lg"></i>
-                    <span class="nav-text">Film & Music</span>
+                    <span class="nav-text">Staff</span>
                 </a>
             </li>
 
             <li class="darkerli">
                 <a href="http://startific.com">
                     <i class="fa fa-flask fa-lg"></i>
-                    <span class="nav-text">Web Tools</span>
+                    <span class="nav-text">Year/Class</span>
                 </a>
             </li>
 
