@@ -6,7 +6,6 @@
 #container{
     box-sizing: content-box;
     border-color: black;
-
 }
 
 i {
@@ -59,7 +58,6 @@ i {
 .media-body{
     margin-right: 10px;
     text-align: left;
-
 }
 
 .col-md-3{
@@ -70,13 +68,14 @@ i {
     src: url('/moiWebsite/lib/css/NexaRustSlab-BlackShadow01-Free-webfont.eot');
     src: url('/moiWebsite/lib/css/NexaRustSlab-BlackShadow01-Free-webfont.woff') format('woff');
     src: url('/moiWebsite/lib/css/NexaRustSlab-BlackShadow01-Free-webfont.ttf') format('truetype');
-
 }
+
 h1 {
     font-family: 'My_Fontpring', Arial, sans-serif;
     padding: auto;
     text-align: center;
 }
+
 h3{
     font-family: "The Heart of Everything Demo", serif;
     font-size: 40px;
@@ -91,4 +90,8 @@ h3{
 .purple{
     padding-top: 10px;
     padding-bottom: 10px;
+}
+
+.jumbotron {
+    background: rgba(76, 175, 80, 0.3)
 }
