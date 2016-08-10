@@ -1,0 +1,88 @@
+body {
+    background-color: black;
+}
+.ahText1 {
+    color: blue;
+}
+
+.ahJumbo {
+    height: 30%;
+    width: 100%;
+    color: white;
+    font-family: 'Fjalla One', sans-serif; !important;
+    text-shadow: 3px 3px maroon;
+    text-align: center;
+    font-size: 90px;
+    margin-top: 0px;
+
+}
+
+//////////////////////*Need to add feathers to ah jumbo!*/
+
+
+img {
+    width: 100px;
+    height: 100px;
+    background-color: grey;
+}
+.caption {
+    display: block;
+    text-align: center;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 20px;
+    color: white;
+
+}
+.navbar.navbar-transparent {
+    background-color: transparent;
+    box-shadow: none;
+    color: #fff;
+    padding-top: 0px;
+    height: 30px;
+
+}
+
+#landingPage {
+    background-image: url('../../lib/images/ShiprockNavCloud.jpg');
+    background-size: cover;
+    height: 35vh;
+    background-position: 0px 354px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    padding: 10px;
+    text-align: center;
+    padding-bottom: 100px;
+
+}
+.navbar-brand {
+    color: white;
+    text-decoration: overline;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    text-shadow: 1px 1px maroon;
+}
+.fa.fa-facebook-square {
+    color: white;
+    font-size: 30px;
+    text-shadow: 2px 2px maroon;
+}
+.fa.fa-twitter {
+    color: white;
+    font-size: 30px;
+    text-shadow: 2px 2px maroon;
+}
+.fa.fa-instagram {
+    color: white;
+    font-size: 30px;
+    text-shadow: 2px 2px maroon;
+}
+.container.col-md-12 {
+    padding-top: 5px;
+}
+.col-md-2.col-xs-6 {
+    padding: 10px;
+}
+
