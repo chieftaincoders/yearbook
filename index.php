@@ -1,18 +1,18 @@
     <!DOCTYPE html>
-    <html lang="en">
+    <html lang="en" class="menu">
     <head>
         <?php require_once("lib/head-utils.php");?>
         <link rel="stylesheet" href="lib/css/slideNav.css"/>
     </head>
-    <title>YearBook Homepage</title>
+    <title>Year Book Homepage</title>
 
 
 
-    <body id="background" background="https://files.slack.com/files-pri/T0ZS050BX-F1RQC4144/11947546_900474536713484_467584626795916643_n.jpg">
+    <body id="background">
     <?php require_once("slideNav.php");?>
 
     <div class="jumbotron">
-        
+
         <h1>Student Life</h1>
         <h2>Student Life Pictures go Here</h2>
         <div class="row">
