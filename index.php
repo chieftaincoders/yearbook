@@ -11,10 +11,10 @@
     <body id="background">
     <?php require_once("slideNav.php");?>
 
-    <div class="jumbotron">
+    <div class="AHjumbotron">
 
-        <h1>Student Life</h1>
-        <h2>Student Life Pictures go Here</h2>
+        <h1>SHS Yearbook</h1>
+        <h2>"Once a Chieftain always a Chieftain</h2>
         <div class="row">
             <div class="col-md-9">
                 <a href="#" class="thumbnail">
