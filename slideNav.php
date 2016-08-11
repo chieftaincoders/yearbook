@@ -32,7 +32,7 @@
 
 
             <li>
-                <a href="http://startific.com">
+                <a href="#">
                     <i class="fa fa-heart-o fa-lg"></i>
 
 <span class="share">
@@ -79,16 +79,13 @@ margin-left: 56px;top:3px;">
                 </a>
 
             </li>
-
-
-
-
-            </li>
-            <li class="darkerlishadow">
-                <a href="http://startific.com">
-                    <i class="fa fa-clock-o fa-lg"></i>
-                    <span class="nav-text">Departments</span>
-                </a>
+            <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fa fa-graduation-cap" aria-hidden="true"></i>Year/Class<span class="caret"></span></a>
+                <ul class="dropdown-menu">
+                    <li><a href="2015.php">2015</a></li>
+                    <li><a href="2014.php">2014</a></li>
+                    <li><a href="2013.php">2013</a></li>
+                </ul>
             </li>
 
             <li class="darkerli">
@@ -125,11 +122,6 @@ margin-left: 56px;top:3px;">
                     <span class="nav-text">Year/Class</span>
                 </a>
             </li>
-
-
-                </a>
-            </li>
-
         </ul>
 
 
