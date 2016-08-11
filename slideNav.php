@@ -17,14 +17,7 @@
                     <span class="nav-text">Home</span>
                 </a>
             </li>
-
-            <li>
-                <a href="http://startific.com">
-                    <i class="fa fa-user fa-lg"></i>
-                    <span class="nav-text">Login</span>
-                </a>
-            </li>
-
+            
 
             <li>
                 <a href="http://startific.com">
@@ -131,43 +124,9 @@ margin-left: 56px;top:3px;">
                 </a>
             </li>
 
-            <li class="darkerli">
-                <a href="http://startific.com">
-                    <i class="fa fa-picture-o fa-lg"></i>
-                    <span class="nav-text">Art & Design</span>
+
                 </a>
             </li>
-
-            <li class="darkerli">
-                <a href="http://startific.com">
-                    <i class="fa fa-align-left fa-lg"></i>
-<span class="nav-text">Magazines
-</span>
-                </a>
-            </li>
-
-            <li class="darkerli">
-                <a href="http://startific.com">
-                    <i class="fa fa-gamepad fa-lg"></i>
-                    <span class="nav-text">Games</span>
-                </a>
-            </li>
-
-            <li class="darkerli">
-                <a href="http://startific.com">
-                    <i class="fa fa-glass fa-lg"></i>
-<span class="nav-text">Life & Style
-</span>
-                </a>
-            </li>
-
-            <li class="darkerlishadowdown">
-                <a href="http://startific.com">
-                    <i class="fa fa-rocket fa-lg"></i>
-                    <span class="nav-text">Fun</span>
-                </a>
-            </li>
-
 
         </ul>
 
