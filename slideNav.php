@@ -13,17 +13,19 @@
 
             <li>
                 <a href="http://startific.com">
-                    <i class="fa fa-home fa-lg"></i>
+                    <i class="fa fa-home"></i>
                     <span class="nav-text">Home</span>
                 </a>
             </li>
-            
 
-            <li>
-                <a href="http://startific.com">
-                    <i class="fa fa-envelope-o fa-lg"></i>
-                    <span class="nav-text">Contact</span>
-                </a>
+
+            <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fa fa-phone-square" aria-hidden="true"></i>Contact Us<span class="caret"></span></a>
+                <ul class="dropdown-menu">
+                    <li><a href="lib/contactUs/email.php">Emails</a></li>
+                    <li><a href="lib/contactUs/facebookLink.php">Facebook link</a></li>
+                    <li><a href="lib/contactUs/sendPicturesAndVideos.php">Send Pictures & Videos</a></li>
+                </ul>
             </li>
 
 

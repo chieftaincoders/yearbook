@@ -13,33 +13,35 @@ i {
 }
 
 .fa-phone-square:before {
-    font-size: xx-large;
+    font-size: x-large;
 }
 
 .fa-graduation-cap:before{
-    font-size: xx-large;
+    font-size: x-large;
 }
 
 .fa-university:before{
-    font-size: xx-large;
+    font-size: x-large;
 }
 
 .fa-user:before{
-    font-size: xx-large;
+    font-size: x-large;
 }
 
 .fa-futbol-o:before{
-    font-size: xx-large;
+    font-size: x-large;
 }
 
 .fa-users:before{
-    font-size: xx-large;
+    font-size: x-large;
 }
 
 .fa-calendar-check-o:before{
-    font-size: xx-large;
+    font-size: x-large;
 }
-
+.fa-home:before{
+    font-size: x-large;
+}
 .jumbotron{
     width: 56%;
     float: left;
