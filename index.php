@@ -9,7 +9,7 @@
 
 
     <body id="background">
-    <?php require_once("slideNav.php");?>
+    <?php require_once("lib/slideNav.php");?>
 
     <div class="AHjumbotron">
 

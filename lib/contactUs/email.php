@@ -2,6 +2,7 @@
 <html>
 <head>
     <?php require_once("../../lib/head-utils.php");?>
+    <link rel="stylesheet" href="lib/css/slideNav.css"/>
 </head>
 <body>
 <?php require_once("../../lib/slideNav.php");?>
@@ -21,5 +22,7 @@
     </div>
     <button type="submit" class="btn btn-default">Submit</button>
 </form>
+
+<?php require_once("../../lib/stickyFooter.php");?>
 </body>
 </html>
