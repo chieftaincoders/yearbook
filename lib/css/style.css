@@ -116,16 +116,16 @@ h3{
 ==================================================*/
 /* Carousel base class */
 .carousel {
-    height: 67vh;
-    width: 110vh;
-    margin-left: 450px;
+    /*height: 67vh;*/
+    width: 65vw;
+    margin-left: 20%;
     /*margin-bottom: 60px;*/
 }
 /* Since positioning the image, we need to help out the caption */
 .carousel-caption {
     z-index: 10;
     text-align: center;
-    padding-bottom: 125px;
+    /*padding-bottom: 125px;*/
     color: red;
 }
 /* Declare heights because of positioning of img element */
@@ -157,7 +157,7 @@ h3{
     text-align:center;
 }
 #landingPage {
-    background-image: url(../images/shiprockNav.jpg);
+    background-image: url (../yearbook/lib/images/ShiprockNavCloud.jpg);
     background-size: cover;
     text-align: center;
     background-color: black;
@@ -172,6 +172,11 @@ h3{
     font-size: 80px;
     letter-spacing: -1px;
     line-height: 1;
-    font-family: "Sitka Heading";
+    font-family: "Sitka Heading", cursive;
     text-shadow: 2px 2px white;
+}
+p {
+    color: black;
+    font-family: "Arial Black", sans-serif;
+    font-size: 20px;
 }
